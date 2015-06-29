@@ -65,8 +65,8 @@ void *main_thread( void *arg ) {
 	}
 
 // Account details
-	unsigned char password[] = "hello";
-	uint32 account = 14038206;
+	unsigned char password[] = "***PASSWORD-GOES-HERE***";
+	uint32 account = ***ACCOUNT-NUMBER-HERE***;
 // Attempt to login (wait for the 0F response from server)
 	while( !login_success ) {
 		Packet login( 0x0F, 38 );
