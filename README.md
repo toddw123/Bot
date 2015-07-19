@@ -5,4 +5,4 @@ This project is not going to get too much time put into it. I dont have very muc
 but i wanted to get this all put up for others to use if they want.
 
 Im on a linux machine (Xubuntu) and the command i currently use to compile the project is:
-g++ main.cpp packet.cpp crypto.cpp -pthread -o bot
+g++ main.cpp packet.cpp crypto.cpp xmlParser.cpp -pthread -o bot
