@@ -3,3 +3,6 @@ bot
 
 #Ignore the output file i use
 info.txt
+
+#Ignore real settings file
+settings.xml
