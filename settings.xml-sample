@@ -2,4 +2,5 @@
 <Settings>
   <Account>12345678</Account>
   <Password>password</Password>
+  <XenVersion>249</XenVersion>
 </Settings>

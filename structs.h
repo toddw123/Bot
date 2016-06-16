@@ -76,4 +76,23 @@ struct UpdatePacketUnitChat
    uint8 stringsize;
 };
 
+struct QuestLog{
+   uint32 unk;
+   uint32 unk2;
+   uint32 unk3;     
+   uint32 unk4;
+   uint32 unk5;
+
+   uint16 curquest;
+   uint16 curkills;
+   uint16 reqkills;
+
+   uint16 zeros;
+
+   //uint16 unk6;
+   //uint16 reqkills;
+  // uint16 curkills;
+   //uint32 curquest;
+};
+
 #endif
