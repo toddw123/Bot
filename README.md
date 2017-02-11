@@ -10,3 +10,6 @@ g++ main.cpp packet.cpp crypto.cpp xmlParser.cpp -pthread -std=c++11 -o bot
 
 06/15/2016 - Pushed an update to this code. Its currently working just fine for the purposed it was created for, but doesnt have very much AI or options right now. Its a good base point for anyone looking to build their own though.
 
+
+
+02/10/2017 - havent played this game in 6+ months. I have a lot of unpublished code for this project. If you are actually intested in this, contact me and ill send it to you.
